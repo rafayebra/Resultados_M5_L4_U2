@@ -1,0 +1,26 @@
+{
+  "name": "WMSLoader",
+  "label": "WMSLoader",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "2.19",
+  "wabVersion": "2.19",
+  "author": "Rafa Yebra",
+  "description": "Widget WMSLoader generado en el Ejercicio 2.2",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": true,
+    "hasLocale": false,
+    "hasStyle": false,
+    "hasConfig": true,
+    "hasUIFile": true,
+    "hasSettingPage": false,
+    "hasSettingUIFile": false,
+    "hasSettingLocale": false,
+    "hasSettingStyle": false,
+    "IsController": false
+  }
+}
+

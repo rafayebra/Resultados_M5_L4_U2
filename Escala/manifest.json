@@ -1,0 +1,24 @@
+{
+  "name": "Escala",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "2.19",
+  "wabVersion": "2.19",
+  "author": "Rafael Yebra",
+  "description": "This is the Escala widget",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+		"inPanel":false,
+		"hasLocale": true,
+		"hasStyle":true,
+		"hasConfig":false,
+		"hasUIFile":true,
+		"hasSettingPage":false,
+		"hasSettingUIFile":false,
+		"hasSettingLocale":false,
+		"hasSettingStyle":false,
+		"IsController":false
+  }
+}
